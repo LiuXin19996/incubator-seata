@@ -146,6 +146,7 @@
 
         <!-- For docker image-->
         <image.publish.skip>true</image.publish.skip>
+        <!--suppress UnresolvedMavenProperty -->
         <image.name>${IMAGE_NAME}</image.name>
         <image.tags>latest</image.tags>
 
